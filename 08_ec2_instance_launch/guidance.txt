@@ -1,0 +1,1 @@
+Walk through the EC2 instance launch wizard and explain the various elements

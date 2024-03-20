@@ -1,0 +1,3 @@
+Create EFS file system
+Create mount point in VPC
+Mount file system on EC2 instance

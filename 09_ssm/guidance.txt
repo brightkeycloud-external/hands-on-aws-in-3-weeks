@@ -1,0 +1,2 @@
+Explore an SSM Run Command scenario
+Show how SSM Session Manager works, from AWS console and CLI
